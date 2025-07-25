@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\github\\yuki2\\",
+  "WorkspaceRootPath": "D:\\github\\yuluo\\yuki2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DB701209-CABA-46A4-9222-40CFCB7F2DA6}|yuki2\\yuki2.vcxproj|D:\\github\\yuki2\\yuki2\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{DB701209-CABA-46A4-9222-40CFCB7F2DA6}|yuki2\\yuki2.vcxproj|D:\\github\\yuluo\\yuki2\\yuki2\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{DB701209-CABA-46A4-9222-40CFCB7F2DA6}|yuki2\\yuki2.vcxproj|solutionrelative:yuki2\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -24,13 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "test.c",
-              "DocumentMoniker": "D:\\github\\yuki2\\yuki2\\test.c",
+              "DocumentMoniker": "D:\\github\\yuluo\\yuki2\\yuki2\\test.c",
               "RelativeDocumentMoniker": "yuki2\\test.c",
-              "ToolTip": "D:\\github\\yuki2\\yuki2\\test.c*",
-              "RelativeToolTip": "yuki2\\test.c*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "ToolTip": "D:\\github\\yuluo\\yuki2\\yuki2\\test.c",
+              "RelativeToolTip": "yuki2\\test.c",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-07-24T04:20:08.535Z",
+              "WhenOpened": "2025-07-24T13:36:12.889Z",
               "EditorCaption": ""
             }
           ]
